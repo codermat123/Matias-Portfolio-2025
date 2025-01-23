@@ -1,0 +1,142 @@
+/* This is a CSS comment. Put your CSS styling below this line */
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', 'sans-serif';
+}
+.container {
+  width: 100%;
+  height: 100vh;
+  background-image: url(images/background.jpg);
+  background-position: center;
+  background-size: cover;
+  padding-left: 8%;
+  padding-right: 8%;
+  box-sizing: border-box;
+}
+
+.navbar {
+  height: 12%;
+  display: flex;
+  align-items: center;
+}
+.logo {
+  width: 100px;
+  height: 80px;
+
+  cursor: pointer;
+  
+}
+
+.menu-icon{
+  width: 30px;
+  cursor: pointer;
+  margin-left: 40px;
+}
+nav{
+  flex: 1;
+  text-align: right;
+}
+nav ul li{
+  list-style: none;
+  display: inline-block;
+  margin-left: 60px;
+  font-size: 20px;
+  
+}
+nav ul li a{
+  text-decoration: none;
+  color: #fff;
+  font-size: 15px;
+}
+.row{
+  display: flex;
+  height: 88%;
+  align-items: center;
+}
+.col{
+  flex-basis: 50%;
+}
+h1{
+  color: black;
+  font-size: 120px;
+}
+p{
+  color: #fff;
+  font-size: 30px;
+  line-height: 40px;
+}
+button{
+  width: 180px;
+  color:#000;
+  font-size: 15px;
+  padding: 12px 0;
+  background: #fff;
+  border: 0;
+  border-radius: 20px;
+  outline: none;
+  margin-top: 30px;
+  font-weight: bold;
+  cursor: pointer;
+  transform: transfor
+}
+.card{
+  width: 220px;
+  height: 260px;
+  display: inline-block;
+  border-radius: 10px;
+  padding: 15px 25px;
+  box-sizing: border-box;
+  cursor: pointer;
+  margin: 10px 20px;
+  background-position: center;
+  background-size: cover;
+  transition: transform 0.5s;
+}
+.card1{
+  background-image: url(images/pic-1.png);
+}
+.card2{
+  background-image: url(images/pic-2.jpeg);
+}
+.card3{
+  background-image: url(images/pic-3.jpeg);
+}
+.card4{
+  background-image: url(images/pic-4.jpeg);
+}
+
+.card:hover{
+  transform: translateY(-10px)
+}
+button:hover{
+  transform: :translateY(-10px);
+}
+h5{
+  color: #fff;
+  text-shadow: 0 0 5px #999;
+  font-size: 28px;
+}
+.card p{
+  text-shadow: 0 0 15px #000;
+  font-size: 16px;
+  line-height: 17px;
+  margin-bottom: 30px;
+}
+
+.btn{
+  display: inline-block;
+  text-decoration: none;
+  color: white;
+  background-color: black;
+  padding: 6px 15px;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  transition: 0.5 ease-in-out;
+  border-radius: 5px;
+  border: 1px solid black;
+  margin: 10px 0;
+  margin-top: auto;
+  align-self: flex-start;
+  
+}
