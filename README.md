@@ -3,7 +3,7 @@
 
 This repository showcases FinTech-oriented projects that explore how coding can enhance financial-related tasks. 
 - Projects utilize Python, ML, HTML, CSS, Streamlit, Power BI, and more
-- - Spans from entry to mid-level proficiency
+- Spans from entry to mid-level proficiency
 
 ## 🏆 Main Projects
 ### BTO Price Predictor (Streamlit, ML, Python)
