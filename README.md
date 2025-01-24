@@ -19,9 +19,9 @@ Inspired by a Fintech course I completed, this project summarizes key learning p
 - Intuitive navigation via a main panel with "Specializations-Topics-Segments," back functions, and clean visuals.
 
 ### Expense Budgeting Tracker Sandbox (Python)
-A personal finance tracker designed to track and budget expenses categorically.
-- View/Edit expenses in a separate CSV file.
-- Set budgets, track remaining budgets, and calculate average daily expenses.
+For personal use, i created this project to track  and budget my expenses categorically
+- View / Edit expenses in separate CSV file
+- Set budgets, track remaining budgets, and calculate average daily expenses
 
 ## 🤖 Machine Learning Projects
 Stock Price Prediction (Jupyter Notebook)
