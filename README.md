@@ -8,20 +8,17 @@ This repository showcases FinTech-oriented projects that explore how coding can 
 ## 🏆 Main Projects
 ### BTO Price Predictor (Streamlit, ML, Python)
 As a young adult, i noticed that my peers felt overwhelmed by the idea of purchasing a BTO, I developed a user-friendly Streamlit app to assist in financial planning and awareness.
-Features:
 - Price Prediction Mode using ML.
 - Budget-Based Flat Recommendation System to match users' budgets with suitable flat
 - Live Demo: [BTO Price Prediction App](https://bto-price-prediction-app-matiasfong.streamlit.app/)
 
 ### Fintech Foundations and Applications (Python)
 Inspired by a Fintech course I completed, this project summarizes key learning points into a user-friendly course program.
-Features:
 - 4 Specializations with 80+ segments of structured course material.
 - Intuitive navigation via a main panel with "Specializations-Topics-Segments," back functions, and clean visuals.
 
 ### Expense Budgeting Tracker Sandbox (Python)
 A personal finance tracker designed to track and budget expenses categorically.
-Features:
 - View/Edit expenses in a separate CSV file.
 - Set budgets, track remaining budgets, and calculate average daily expenses.
 
