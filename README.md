@@ -29,13 +29,12 @@ For personal use, i created this project to track  and budget my expenses catego
 2. Tesla: Linear Regression
 3. Google: LSTM
 
-## 💻 Web Development
-Fin-Dex (HTML, CSS)
-Developed an interactive Fintech blog website for my CS50 assignment, exploring the ABCDs of Fintech (AI, Blockchain, Cloud Computing, Big Data).
-Features:
-"Home," "About," and "Contact" pages.
-Directive "Read More" buttons linking to respective blog posts.
-Additional Resource: Findex Website.pptx includes website visuals.
+## 💻 Fin-Dex Web development (HTML, CSS)
+For my CS50 assignment, I Developed an interactive Fintech blog website 
+- Features the ABCDs of Fintech (AI, Blockchain, Cloud Computing, Big Data)
+- Directive "Read More" buttons linking to respective blog posts.
+- "Home," "About," and "Contact" pages.
+- Website visuals: Findex Website.pptx file
 
 ## 🧩 Entry-Level Projects
 - Calculator
