@@ -13,7 +13,7 @@ As a young adult, i noticed that my peers felt overwhelmed by the idea of purcha
 - Live Demo: [BTO Price Prediction App](https://bto-price-prediction-app-matiasfong.streamlit.app/)
 - Dataset from data.gov.sg
 
-### Fintech Foundations and Applications (Python)
+### Fintech Foundations and Applications Upenn (Python)
 Inspired by a Fintech course I completed, this project summarizes key learning points into a user-friendly course program.
 - 4 Specializations with 80+ segments of structured course material.
 - Intuitive navigation via a main panel with "Specializations-Topics-Segments," back functions, and clean visuals.
