@@ -25,9 +25,9 @@ For personal use, i created this project to track  and budget my expenses catego
 
 ## 🤖 Machine Learning Projects (Stock Price Prediction - Jupyter Notebook)
 ### After completing Andrew Ng's Stanford ML Course, I applied various ML algorithms to predict stock prices:
-1. S&P 500: Random Forest Classifier.
-2. Tesla: Linear Regression.
-3. Google: LSTM.
+1. S&P 500: Random Forest Classifier
+2. Tesla: Linear Regression
+3. Google: LSTM
 
 ## 💻 Web Development
 Fin-Dex (HTML, CSS)
