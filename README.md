@@ -2,7 +2,7 @@
 👨‍💻 Hi, my name is Matias. After graduating in 2023, I was inspired by my internship and work at CapitaLand and Atome to dive into Fintech and Programming
 
 This repository showcases FinTech-oriented projects that explore how coding can enhance financial-related tasks. 
--Projects utilize Python, ML, HTML, CSS, Streamlit, Power BI, and more.
+- Projects utilize Python, ML, HTML, CSS, Streamlit, Power BI, and more.
 
 ## 🏆 Main Projects
 ### BTO Price Predictor (Streamlit, ML, Python)
