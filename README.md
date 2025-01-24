@@ -23,8 +23,7 @@ For personal use, i created this project to track  and budget my expenses catego
 - View / Edit expenses in separate CSV file
 - Set budgets, track remaining budgets, and calculate average daily expenses
 
-## 🤖 Machine Learning Projects
-Stock Price Prediction (Jupyter Notebook)
+## 🤖 Machine Learning Projects (Stock Price Prediction - Jupyter Notebook)
 ### After completing Andrew Ng's Stanford ML Course, I applied various ML algorithms to predict stock prices:
 1. S&P 500: Random Forest Classifier.
 2. Tesla: Linear Regression.
