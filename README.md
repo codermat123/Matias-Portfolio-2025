@@ -11,7 +11,7 @@ As a young adult, i noticed that my peers felt overwhelmed by the idea of purcha
 Features:
 - Price Prediction Mode using ML.
 - Budget-Based Flat Recommendation System to match users' budgets with suitable flat
-- Live Demo: BTO Price Prediction App
+- Live Demo: [BTO Price Prediction App](https://bto-price-prediction-app-matiasfong.streamlit.app/)
 
 ### Fintech Foundations and Applications (Python)
 Inspired by a Fintech course I completed, this project summarizes key learning points into a user-friendly course program.
