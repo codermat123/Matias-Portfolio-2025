@@ -8,6 +8,7 @@ This repository showcases FinTech-oriented projects that explore how coding can 
 ## 🏆 Main Projects
 ### BTO Price Predictor (Streamlit, ML, Python)
 As a young adult, i noticed that my peers felt overwhelmed by the idea of purchasing a BTO, I developed a user-friendly Streamlit app to assist in financial planning and awareness.
+- Dataset from data.gov.sg
 - Price Prediction Mode using ML.
 - Budget-Based Flat Recommendation System to match users' budgets with suitable flat
 - Live Demo: [BTO Price Prediction App](https://bto-price-prediction-app-matiasfong.streamlit.app/)
