@@ -7,28 +7,28 @@ This repository showcases FinTech-oriented projects that explore how coding can 
 ### BTO Price Predictor (Streamlit, ML, Python)
 As a young adult, i noticed my that my peers felt overwhelmed by the idea of purchasing a BTO, I developed a user-friendly Streamlit app to assist in financial planning and awareness.
 Features:
--Price Prediction Mode using ML.
--Budget-Based Flat Recommendation System to match users' budgets with suitable flats.
--Live Demo: BTO Price Prediction App
+- Price Prediction Mode using ML.
+- Budget-Based Flat Recommendation System to match users' budgets with suitable flats.
+- Live Demo: BTO Price Prediction App
 
 ### Fintech Foundations and Applications (Python)
 Inspired by a Fintech course I completed, this project summarizes key learning points into a user-friendly course program.
 Features:
--4 Specializations with 80+ segments of structured course material.
+- 4 Specializations with 80+ segments of structured course material.
 - Intuitive navigation via a main panel with "Specializations-Topics-Segments," back functions, and clean visuals.
-- 
+
 ### Expense Budgeting Tracker Sandbox (Python)
 A personal finance tracker designed to track and budget expenses categorically.
 Features:
-View/Edit expenses in a separate CSV file.
-Set budgets, track remaining budgets, and calculate average daily expenses.
+- View/Edit expenses in a separate CSV file.
+- Set budgets, track remaining budgets, and calculate average daily expenses.
 
 ## 🤖 Machine Learning Projects
 Stock Price Prediction (Jupyter Notebook)
 ### After completing Andrew Ng's Stanford ML Course, I applied various ML algorithms to predict stock prices:
-S&P 500: Random Forest Classifier.
-Tesla: Linear Regression.
-Google: LSTM.
+1. S&P 500: Random Forest Classifier.
+2. Tesla: Linear Regression.
+3. Google: LSTM.
 
 ## 💻 Web Development
 Fin-Dex (HTML, CSS)
@@ -39,10 +39,10 @@ Directive "Read More" buttons linking to respective blog posts.
 Additional Resource: Findex Website.pptx includes website visuals.
 
 ## 🧩 Entry-Level Projects
-Calculator
-Currency Converter
-Password Generator
-To-Do List
+- Calculator
+- Currency Converter
+- Password Generator
+- To-Do List
 
 ## 📊 Data Visualization
 SG Crime Rates (Power BI)
