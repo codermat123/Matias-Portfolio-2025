@@ -2,14 +2,15 @@
 👨‍💻 Hi, my name is Matias. After graduating in 2023, I was inspired by my internship and work at CapitaLand and Atome to dive into Fintech and Programming
 
 This repository showcases FinTech-oriented projects that explore how coding can enhance financial-related tasks. 
-- Projects utilize Python, ML, HTML, CSS, Streamlit, Power BI, and more.
+- Projects utilize Python, ML, HTML, CSS, Streamlit, Power BI, and more
+- - Spans from entry to mid-level proficiency
 
 ## 🏆 Main Projects
 ### BTO Price Predictor (Streamlit, ML, Python)
 As a young adult, i noticed my that my peers felt overwhelmed by the idea of purchasing a BTO, I developed a user-friendly Streamlit app to assist in financial planning and awareness.
 Features:
 - Price Prediction Mode using ML.
-- Budget-Based Flat Recommendation System to match users' budgets with suitable flats.
+- Budget-Based Flat Recommendation System to match users' budgets with suitable flat
 - Live Demo: BTO Price Prediction App
 
 ### Fintech Foundations and Applications (Python)
